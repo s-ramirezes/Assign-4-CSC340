@@ -1,0 +1,3 @@
+
+Title: daxter, Genre: action, Price: 213.0
+Title: splatoon, Genre: arcade, Price: 10.0
